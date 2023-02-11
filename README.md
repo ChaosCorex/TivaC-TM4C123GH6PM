@@ -15,6 +15,7 @@ Mcal layer - MicroController Abstraction Layer: contains all MicroController Per
     
 - A Configuration folder can be added to contain the enums and structs instead of the interface
   header file
-- A Hal Layer - Hardware Abstraction Layer can be added as required
-  The Hal Layer contains drivers related to all external components, example: LEDs, Buttons, etc.
+  
+- Hal Layer - Hardware Abstraction Layer: contains drivers related to all external components, 
+  example: LEDs, Buttons, etc.
   
